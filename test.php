@@ -9,6 +9,6 @@ class Persion
 
     private function set()
     {
-        return 'set';
+        return 'set test_2';
     }
 }
