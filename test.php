@@ -10,5 +10,6 @@ class Persion
     private function set()
     {
         return 'set lancercd_test';
+        return 'set test_2';
     }
 }
